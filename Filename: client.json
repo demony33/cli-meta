@@ -1,0 +1,6 @@
+{
+  "client_id": "https://demony33.github.io/cli-meta/client.json",
+  "client_name": "h1-test-client",
+  "grant_types": ["urn:ietf:params:oauth:grant-type:device_code", "refresh_token"],
+  "token_endpoint_auth_method": "none"
+}
